@@ -5,3 +5,7 @@ uso de:
 - REST
 - MySQL
 -SequelizeJS
+
+dependencias:
+
+server: npm install express cors mysql2
