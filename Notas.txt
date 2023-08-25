@@ -1,0 +1,7 @@
+Proyecto de una página de comentarios.
+uso de:
+- React 
+- NodeJS / Express
+- REST
+- MySQL
+-SequelizeJS
